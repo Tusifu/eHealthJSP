@@ -1,0 +1,22 @@
+#table {
+    background: #008800;
+    color:yellow;
+    margin: 25%;
+    margin-top: 15px;
+    width: 50%
+}
+   #heading {
+                font-family: "Roboto";
+                font-size: 25px;
+                border: 3px solid #ccc;
+                background: #FF8C00;
+                margin: 25%;
+                margin-top: 10px;
+                margin-bottom: 1px;
+                padding: 2%;
+                color: black;
+            }
+
+body {
+    background: black;
+}
